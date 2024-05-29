@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f4f2;
+    color: #333333;
+    font-family: 'Helvetica', sans-serif;
+}
+.stFileUploader {
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+}
+.stButton>button {
+    color: white;
+    background-color: #4CAF50;
+}
